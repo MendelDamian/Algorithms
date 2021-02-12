@@ -1,6 +1,6 @@
 // https://cses.fi/problemset/task/1068
 #include <iostream>
-#include <ctype.h>
+#include <cstdint>
 
 int main() {
     uint64_t n;
